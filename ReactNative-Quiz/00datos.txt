@@ -1,0 +1,8 @@
+Integrantes: 
+- Lucía Cepedano Gutiérrez
+- Juan Francisco Vara Sánchez
+La aplicación ha sido simulada en un dispositivo Android virtual y en el servidor web localhost.
+Para su desarrollo hemos realizado las siguientes partes:
+- Navegación: Mediante el empleo de un Drawer que despliega las opciones permite la navegación sobre: (Home, TicTacToe y Quizzes)
+- Quiz: La aplicación permite jugar al juego Quiz.
+- Mejoras: Hemos intentado realizar la mejora del AsyncStorage y solo hemos logrado que almacene y borre un Quiz. Si conseguimos que hiciese la funcionalidad pedida pero con el uso de un array donde se copiaban quizzes[]. Funcionaba como una copia de seguridad que se utilizaba para cargarlos dando al botón load.
